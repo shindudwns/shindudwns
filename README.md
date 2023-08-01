@@ -22,7 +22,7 @@
 
 <div align="center">
 <p>
-  //<a href="https://velog.io/@ShinYoungJun" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+  #<a href="https://velog.io/@ShinYoungJun" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://blog.naver.com/skql3690" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://www.instagram.com/shindudwns/" target="_blank"><img src="https://img.shields.io/badge/ShinYoungJun-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:shindudwns@naver.com" target="_blank"><img src="https://img.shields.io/badge/shindudwns@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
