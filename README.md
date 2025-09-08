@@ -2,26 +2,31 @@
 **shindudwns/shindudwns** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!!&desc=Youngjun%20Shin's%20GitHub%20💻&fontSize=65&descSize=20&fontAlignY=35&fontAlign=50&descAlign=50&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!!&desc=Youngjun%20Shin's%20Playground%20💻&fontSize=65&descSize=20&fontAlignY=35&fontAlign=30&descAlign=25&descAlignY=55)
+
+---
+
+### 👋 Hi, I'm **Youngjun Shin**
+- 🌱 Currently learning: **C#, .NET 8, SAP B1 automation**  
+- 👯 Looking to collaborate on: **AI + ERP Integration Projects**  
+- ⚡ Fun fact: I love combining **design + automation** to make life easier  
 
 ---
 
 ### 📊 GitHub Stats
-![Youngjun Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindudwns&show_icons=true&theme=tokyonight&hide_border=true&hide=prs)
+![Stats](https://github-readme-stats.vercel.app/api?username=shindudwns&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shindudwns&layout=compact&langs_count=8&hide=html,css&theme=tokyonight&hide_border=true)
+### 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shindudwns&theme=tokyonight&hide_border=true)
 
----
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shindudwns&theme=tokyo-night)
 
-### 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=shindudwns&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=shindudwns&theme=tokyonight&column=6&margin-w=5&margin-h=5)
+### 📚 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shindudwns&layout=compact&theme=tokyonight)
 
 ---
 
-<!-- 선택: Solved.ac (백준 프로필) -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shindudwns)](https://solved.ac/shindudwns) -->
+### 📝 Profile Views
+![Visitors](https://komarev.com/ghpvc/?username=shindudwns&label=Profile%20Views&color=0e75b6&style=flat)
+
