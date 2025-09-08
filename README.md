@@ -3,7 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!!&desc=It's%20Youngjun%20Shin's%20GitHub%20💻&fontSize=80&descSize=25&fontAlignY=35&fontAlign=30&descAlign=25&descAlignY=55)
 
-
 ### 📊 GitHub Stats
 ![Youngjun Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindudwns&show_icons=true&theme=transparent&hide_border=true&v=2)
 
