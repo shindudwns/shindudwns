@@ -1,5 +1,5 @@
 <!--
-**shindudwns/shindudwns** profile README
+**shindudwns/shindudwns** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!!&desc=Youngjun%20Shin's%20GitHub%20💻&fontSize=65&descSize=20&fontAlignY=35&fontAlign=50&descAlign=50&descAlignY=55)
