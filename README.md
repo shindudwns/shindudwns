@@ -1,18 +1,19 @@
 <!--
-**shindudwns/shindudwns** profile README
+**shindudwns/shindudwns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!!&desc=It's%20Youngjun%20Shin's%20GitHub%20💻&fontSize=80&descSize=25&fontAlignY=35&fontAlign=30&descAlign=25&descAlignY=55)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9BE8D8,50:D7E5F0,100:FED7E2&height=260&section=header&text=Welcome!!&fontSize=64&fontAlign=50&fontAlignY=35&desc=Youngjun%20Shin%E2%80%99s%20GitHub%20%F0%9F%92%BB%20%7C%20WPF%20%26%20SAP%20B1%20Automation%20Builder%20%F0%9F%9A%80&descSize=18&descAlign=50&descAlignY=58&v=2)
-
-<p align="center">
-  👋 Hi, I’m <b>Youngjun Shin</b> (<i>shindudwns</i>). I build desktop automation tools for SAP B1 and love neat, productive UIs.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shindudwns&label=Profile%20views&style=flat&color=0e75b6" alt="profile views"/>
-</p>
-
----
 
 ### 📊 GitHub Stats
 ![Youngjun Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindudwns&show_icons=true&theme=transparent&hide_border=true&v=2)
