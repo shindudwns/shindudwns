@@ -3,7 +3,7 @@
 
 
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!!&desc=%50It's%20Youngjun%20Shin's%20GitHub%20💻&fontSize=80&descSize=25&fontAlignY=35&fontAlign=30&descAlign=25&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!!&desc=%20%20%20It's%20Youngjun%20Shin's%20GitHub%20💻&fontSize=80&descSize=25&fontAlignY=35&fontAlign=30&descAlign=25&descAlignY=55)
 
 ### 📈 Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shindudwns&area=true&hide_border=true&v=2)](https://github.com/shindudwns)
