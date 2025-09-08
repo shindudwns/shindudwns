@@ -1,5 +1,5 @@
 <!--
-**shindudwns/shindudwns** Profile README
+**shindudwns/shindudwns** profile README
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9BE8D8,50:D7E5F0,100:FED7E2&height=260&section=header&text=Welcome!!&fontSize=64&fontAlign=50&fontAlignY=35&desc=Youngjun%20Shin's%20GitHub%20💻%20%7C%20WPF%20%26%20SAP%20B1%20Automation%20Builder%20🚀&descSize=18&descAlign=50&descAlignY=58)
@@ -12,21 +12,14 @@
   <img src="https://komarev.com/ghpvc/?username=shindudwns&label=Profile%20views&style=flat&color=0e75b6" alt="profile views"/>
 </p>
 
-<!-- 방문자 수 카운터 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shindudwns&label=Profile%20views&style=flat&color=0e75b6" alt="profile views"/>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
-<!-- 기존 밝은 느낌 유지: transparent 테마 -->
 ![Youngjun Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindudwns&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 
 ### 📈 Activity Graph
-<!-- 기본(라이트) 느낌 유지, 테마 파라미터 생략 -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shindudwns&area=true&hide_border=true)](https://github.com/shindudwns)
 
 ---
