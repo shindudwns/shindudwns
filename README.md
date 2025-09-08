@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!!&desc=It's%20shindudwns's%20GitHub%20💻&fontSize=80&descSize=25&fontAlignY=35&fontAlign=30&descAlign=25&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!!&desc=It's%20Youngjun%20Shin's%20GitHub%20💻&fontSize=80&descSize=25&fontAlignY=35&fontAlign=30&descAlign=25&descAlignY=55)
 
-![shindudwns's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindudwns&show_icons=true&theme=transparent&)
+![Youngjun Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindudwns&show_icons=true&theme=transparent&)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shindudwns&layout=compact)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shindudwns)](https://solved.ac/shindudwns)-->
-
