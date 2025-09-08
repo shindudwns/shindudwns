@@ -6,7 +6,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!!&desc=%20%20%20It's%20Youngjun%20Shin's%20GitHub%20💻&fontSize=80&descSize=25&fontAlignY=35&fontAlign=30&descAlign=25&descAlignY=55)
 
 ### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shindudwns&bg_color=9BE8D8&color=00aaff&line=00c3ff&point=1e90ff&area_color=87ceeb&area=true&hide_border=true&v=2)](https://github.com/shindudwns)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shindudwns&bg_color=87ceeb&color=00aaff&line=00c3ff&point=1e90ff&area_color=87ceeb&area=true&hide_border=true&v=2)](https://github.com/shindudwns)
 
 ----=
 
